@@ -1,0 +1,2 @@
+# resultsSummaryComponent
+Results Summary Component
